@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>My Simple Blog</title>
+  <link>https://example.com</link>
+  <description>A simple RSS feed example</description>
+  <language>en-us</language>
+  <lastBuildDate>Mon, 03 Jun 2024 12:00:00 GMT</lastBuildDate>
+  
+  <item>
+    <title>First Post</title>
+    <link>https://example.com/first-post</link>
+    <description>This is the content of my first blog post.</description>
+    <pubDate>Mon, 03 Jun 2024 10:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://example.com/first-post</guid>
+  </item>
+  
+  <item>
+    <title>Second Post</title>
+    <link>https://example.com/second-post</link>
+    <description>Here's another post with some example content.</description>
+    <pubDate>Sun, 02 Jun 2024 15:30:00 GMT</pubDate>
+    <guid isPermaLink="true">https://example.com/second-post</guid>
+  </item>
+</channel>
+</rss>
